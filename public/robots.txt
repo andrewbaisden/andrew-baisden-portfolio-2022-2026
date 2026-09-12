@@ -1,3 +1,15 @@
-# https://www.robotstxt.org/robotstxt.html
+# Block all crawlers. Do not add a sitemap.
 User-agent: *
-Disallow:
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Googlebot-News
+Disallow: /
+
+User-agent: AdsBot-Google
+Disallow: /
