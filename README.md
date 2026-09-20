@@ -1,4 +1,4 @@
-# Portfolio website 2022 version
+# Portfolio website 2022 - 2026 version
 
 ![Portfolio 2022-2026](docs/portfolio-2022-2026.png)
 
